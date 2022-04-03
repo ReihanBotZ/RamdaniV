@@ -1,8 +1,8 @@
 
 //────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/KWHArKP2AsT8slgbh7mc6O']
-global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
+global.linkGC = ['https://chat.whatsapp.com/HNosE6PyuIF19iNLDVb8Dm']
+global.channelYT = ['https://youtube.com/channel/UCUILn-KnB74fzW-U8zzwS3A'] 
 global.owner = ['6285368159958', '6285368159958', '6285368159958', '6285368159958']// Put your number here
 global.mods = [ '6285368159958' ,  '6285368159958' ,  '6285368159958' ] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -34,9 +34,9 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Reihan'
-global.author = 'Botz'
+global.author = 'BotZ'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 60 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
